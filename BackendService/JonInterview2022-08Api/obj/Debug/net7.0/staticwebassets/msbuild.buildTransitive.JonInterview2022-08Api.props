@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\JonInterview2022-08Api.props" />
+</Project>

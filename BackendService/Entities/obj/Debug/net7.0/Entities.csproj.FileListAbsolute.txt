@@ -1,0 +1,12 @@
+D:\coding\JobInterview2023-08\BackendService\Entities\bin\Debug\net7.0\Entities.deps.json
+D:\coding\JobInterview2023-08\BackendService\Entities\bin\Debug\net7.0\Entities.dll
+D:\coding\JobInterview2023-08\BackendService\Entities\bin\Debug\net7.0\Entities.pdb
+D:\coding\JobInterview2023-08\BackendService\Entities\obj\Debug\net7.0\Entities.csproj.AssemblyReference.cache
+D:\coding\JobInterview2023-08\BackendService\Entities\obj\Debug\net7.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\coding\JobInterview2023-08\BackendService\Entities\obj\Debug\net7.0\Entities.AssemblyInfoInputs.cache
+D:\coding\JobInterview2023-08\BackendService\Entities\obj\Debug\net7.0\Entities.AssemblyInfo.cs
+D:\coding\JobInterview2023-08\BackendService\Entities\obj\Debug\net7.0\Entities.csproj.CoreCompileInputs.cache
+D:\coding\JobInterview2023-08\BackendService\Entities\obj\Debug\net7.0\Entities.dll
+D:\coding\JobInterview2023-08\BackendService\Entities\obj\Debug\net7.0\refint\Entities.dll
+D:\coding\JobInterview2023-08\BackendService\Entities\obj\Debug\net7.0\Entities.pdb
+D:\coding\JobInterview2023-08\BackendService\Entities\obj\Debug\net7.0\ref\Entities.dll
